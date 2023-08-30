@@ -18,10 +18,7 @@
 
 
 
-<div style="display: inline_block"><br>
 
-  <img align="center" alt="Bentola-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
 
 <div align="left">
   <img align="right" alt="Bentola-Js" height="400" width="300" src="https://cdn.discordapp.com/attachments/1078097185540935700/1143295292318416976/alien-dance.gif">
@@ -34,6 +31,5 @@
   <a href="https://api.whatsapp.com/send/?phone=5538991148769&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/bentolaalien/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
