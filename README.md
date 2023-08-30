@@ -12,7 +12,6 @@
 - Cursando Sistemas da Informação (SI)
 - Tecnico em Informática (IFGoiano)
 - Java, Python, C
-- Crio Bots
 
 </div>
 
